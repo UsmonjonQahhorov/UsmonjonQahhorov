@@ -1,4 +1,4 @@
-![logo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1301361/retina_1708x683_cover-0402-an-introduction-to-mocking-in-python-Waldek_Newsletter-fdc7cce1eda95aee17e25b769a2bd183.png)
+![logo](https://media.licdn.com/dms/image/C5616AQEsM-HbnQvTvw/profile-displaybackgroundimage-shrink_200_800/0/1517627295736?e=2147483647&v=beta&t=V64Gs6PpI_QdbJevAvHBq0HFbvCOiVSN8RyTcDmTqeM)
 
 <h1 align="center">Hi 👋, I'm Qohhorov Usmonjon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
