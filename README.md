@@ -1,4 +1,4 @@
-![logo](https://github.com/UsmonjonQahhorov/MyPage/blob/main/Not-everything-we-call-AI-is-actually-artificial-intelligence.webp)
+![logo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1301361/retina_1708x683_cover-0402-an-introduction-to-mocking-in-python-Waldek_Newsletter-fdc7cce1eda95aee17e25b769a2bd183.png)
 
 <h1 align="center">Hi 👋, I'm Qohhorov Usmonjon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
