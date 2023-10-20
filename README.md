@@ -1,3 +1,5 @@
+![logo](https://github.com/UsmonjonQahhorov/MyPage/blob/main/Not-everything-we-call-AI-is-actually-artificial-intelligence.webp)
+
 <h1 align="center">Hi 👋, I'm Qohhorov Usmonjon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
