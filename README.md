@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **qohhorovusmonjon@gmail.com**
 
-- ⚡ Fun fact **I am funny;)**
+- ⚡ Fun fact **I love coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
