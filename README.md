@@ -14,6 +14,8 @@
 - 💬 Ask me about **Python, Django, DRF, FastAPI, Linux, Docker**
 
 - 📫 How to reach me **qohhorovusmonjon@gmail.com**
+- Linkedin **https://www.linkedin.com/in/usmonjon-qohhorov-8b1970238/**
+- Discord **usmonjon_16520**
 
 - ⚡ Fun fact **I love coding!**
 
