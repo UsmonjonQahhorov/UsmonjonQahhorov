@@ -18,6 +18,7 @@
 - Discord **usmonjon_16520**
 
 - ⚡**I love coding! and playing cs2 after work**
+- **Buy me a coffee https://www.buymeacoffee.com/usmonjon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
