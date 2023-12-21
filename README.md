@@ -17,7 +17,7 @@
 - Linkedin **https://www.linkedin.com/in/usmonjon-qohhorov-8b1970238/**
 - Discord **usmonjon_16520**
 
-- ⚡ Fun fact **I love coding!**
+- ⚡**I love coding! and playing cs2 after work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
